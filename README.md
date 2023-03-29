@@ -20,7 +20,7 @@
 
 ### 👨‍💻: About Me :
 I am a front-end (React) and MERN stack developer.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am keen on improving my front-end skills along side my javaScript skills. I'm currently working on a few projects which I upload to my Github repo. Looking to collab on any javaScript-based project. Feel free to ask me about anything. Your contributions to my repos would be appreciated. Some day I hope to land a developer role in a top tech institution.
- from Lagos.
+I currently live in Lagos.
  
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
