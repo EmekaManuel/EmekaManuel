@@ -28,7 +28,7 @@ I currently live in Lagos.
 
 - :zap: In my free time, I solve play video games, surf twitter, learn new technologies and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-manuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-onyewuchi-16119023b/)
+- :mailbox:Hire me | View my Resume: [![Linkedin Badge](https://img.shields.io/badge/-manuel-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/emmanuel-onyewuchi-16119023b/](https://docs.google.com/document/d/1v-C_gxBOnOC6__6iezYt494SFay8erOj_T-_HGeJ55U/edit?usp=sharing))
 
 ---
 
