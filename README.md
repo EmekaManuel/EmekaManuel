@@ -1,4 +1,4 @@
-## Hi, I'm Onyewuchi Emmanuel Emeka.
+## Hi, I'm Onyewuchi Emmanuel Emeka. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 ### 💫 About Me:
