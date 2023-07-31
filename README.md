@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://emeka-manuel.vercel.app/api?username=EmekaManuel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EmekaManuel&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats-eight-ashy-49.vercel.app/?user=EmekaManuel&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmekaManuel&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
