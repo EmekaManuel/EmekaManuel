@@ -17,13 +17,13 @@ I'm a passionate software engineer with a solid background in frontend and block
 
 ### 🏆 Professional Highlights
 
+- **NorthFund**: Spearheaded blockchain platform development on Solana, enabling secure student crowdfunding with global outreach.
+
 - **GlobalPay**: Enhanced user experience and performance for 2,000+ users, optimizing dashboards for real-time transaction monitoring and scaling to over a billion annual transactions.
 
 - **Venco**: Delivered MVP for a property rental service and improved mobile app performance by 20%, ensuring a smooth, engaging user experience.
 
 - **TruckDispatch**: Revolutionized logistics with a seamless, real-time shipment tracking platform, achieving a 40% improvement in performance.
-
-- **NorthFund**: Spearheaded blockchain platform development on Solana, enabling secure student crowdfunding with global outreach.
 
 - **Open Source Contributions**: Active contributor to Solana’s developer ecosystem, updating resources and enhancing tools for dApp developers.
 
