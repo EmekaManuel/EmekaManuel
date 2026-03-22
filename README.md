@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic greeting banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Onyewuchi%20Emeka%20Emmanuel&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Senior%20Fullstack%20Engineer%20%7C%20React%20%26%20TypeScript&descAlignY=58&descSize=16)
+
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-marrnueldev.netlify.app-6366f1?style=for-the-badge&logo=netlify&logoColor=white)](https://marrnueldev.netlify.app)
