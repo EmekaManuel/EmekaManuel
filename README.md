@@ -68,7 +68,7 @@ I'm a **Senior Fullstack Engineer** with **6+ years of experience** architecting
 
 ## 💼 Professional Experience
 
-### 🏢 GlobalPay — *Senior Frontend Engineer* `Apr 2024 – Present`
+### 🏢 GlobalPay — *Senior Frontend Engineer* `Apr 2024 – April 2026`
 > Lagos, NG
 
 - Delivered **3 finance management web apps** (Next.js, React, TypeScript) serving **20,000+ active users** and processing **$200M+ in annual transactions**
