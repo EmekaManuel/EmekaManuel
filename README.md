@@ -68,6 +68,16 @@ I'm a **Senior Fullstack Engineer** with **6+ years of experience** architecting
 
 ## 💼 Professional Experience
 
+### ⚖️ Sque — *Senior Frontend Engineer* `Apr 2025 – Present`
+> San Francisco, USA *(Remote)*
+
+- Built features for an enterprise **legal workflow SaaS** (Next.js 15/16, React 19, TypeScript) in a Turborepo + pnpm monorepo
+- Applied **Feature-Sliced Design** across billing, cases, clients, invoices, workflows, and mission control UI
+- Maintained and scaled shared internal packages: `@sque/api-client`, `@sque/auth`, `@sque/ui`, `@sque/ai-toolkit-editor`
+- Delivered a dual-app (V1 + V2) rollout with Vercel rewrite patterns and full CI/CD quality gates (Snyk, SonarCloud)
+
+---
+
 ### 🏢 GlobalPay — *Senior Frontend Engineer* `Apr 2024 – April 2026`
 > Lagos, NG
 
@@ -76,16 +86,6 @@ I'm a **Senior Fullstack Engineer** with **6+ years of experience** architecting
 - Reduced system downtime by **30%** via comprehensive error boundary implementation
 - Enhanced codebase maintainability by **50%** through SOLID-aligned modular TypeScript architecture
 - Integrated REST APIs with Axios interceptors across a **microservices architecture**
-
----
-
-### ⚖️ Sque — *Senior Frontend Engineer* `Apr 2024 – Present`
-> San Francisco, USA *(Remote)*
-
-- Built features for an enterprise **legal workflow SaaS** (Next.js 15/16, React 19, TypeScript) in a Turborepo + pnpm monorepo
-- Applied **Feature-Sliced Design** across billing, cases, clients, invoices, workflows, and mission control UI
-- Maintained and scaled shared internal packages: `@sque/api-client`, `@sque/auth`, `@sque/ui`, `@sque/ai-toolkit-editor`
-- Delivered a dual-app (V1 + V2) rollout with Vercel rewrite patterns and full CI/CD quality gates (Snyk, SonarCloud)
 
 ---
 
